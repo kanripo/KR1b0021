@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 洪範統一
-#+DATE: 2015-09-23 09:36:03
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:02:19.799725
+#+PROPERTY: ID KR1b0021
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 洪範統一
 <pb:KR1b0021_WYG_001-1a>¶
 欽定四庫全書¶
 　洪範統一　　　　　　　宋　趙善湘　撰¶
@@ -352,4 +354,3 @@
 　　羑里九疇在明夷武王勝殷以箕子歸而洪範復¶
 　　歸于周卜世三十卜年八百而過其歴者良有以¶
 　　也有天下者監于兹焉善湘又叙¶
-
